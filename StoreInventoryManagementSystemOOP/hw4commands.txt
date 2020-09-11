@@ -1,0 +1,11 @@
+S, 001, S, 1989, Near Mint, Ken Griffey Jr., Upper Deck
+B, 456, M, 1913, 70, Liberty Nickel
+C, 999
+D
+X, 999, Z, 1986, Raging, Metallica, Master of Puppets
+S, 999, S, 1989, Near Mint, Ken Griffey Jr., Upper Deck
+S, 999, S, 1989, Near Mint, Ken Griffey Jr., Upper Deck
+S, 000, Q, 2112, Gnarly, Windows, Microsoft
+H
+C, 999
+D
